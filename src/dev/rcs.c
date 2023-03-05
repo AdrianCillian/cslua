@@ -135,7 +135,6 @@ RcsluaVec rcslua_vec_new(size_t len, size_t elem_size) {
     vec.cap = len;
     return vec;
 }
-Continuing from the previous code snippet, here are more functions related to Rust and C++ with names starting with "rcslua":
 
 c
 Copy code
